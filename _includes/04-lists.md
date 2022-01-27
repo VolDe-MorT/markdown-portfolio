@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+<ol>
+<li>- [ ] Github</li>
+<li>- [x] Reddit</li>
+<li>- [ ] Twitter</li>
+  </ol>
